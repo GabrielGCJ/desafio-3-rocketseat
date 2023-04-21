@@ -1,6 +1,3 @@
-# desafio-3-rocketseat
-
-
 # Desafio 03: Chapter I - Corrigindo o código
 Este é o primeiro chapter no desafio 03 da Rocket Ignite, um programa de capacitação intensiva em desenvolvimento de software.
 
